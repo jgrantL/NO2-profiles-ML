@@ -1,13 +1,13 @@
 # Efficient Prediction of NO2 Vertical Profiles Using ML
 
-Welcome to my 8-month research project at a UC Berkeley atmospheric chemistry lab under the guidance of Dr. Ron Cohen! 
+Welcome to my 8-month research project at a UC Berkeley [atmospheric chemistry lab](https://cohen.cchem.berkeley.edu/) under the guidance of Dr. Ron Cohen! 
 
 ## Introduction
 
 In order to get an accurate retrieval of NO2 data from a satellite, scientists require a priori knowledge about where NO2 generally exists in the atmosphere. This a prior knowledge comes in the form of a vertical profile (see picture below for both urban and rural NO2 vertical profiles over Atlanta, GA). 
 
 <p align="center">
-  <img height="200" width="200" src="average_both_profile.jpeg" />
+  <img height="200" width="250" src="average_both_profile.jpeg" />
 </p>
 
 ## Repo Breakdown
