@@ -13,7 +13,7 @@ Our project is a proof of concept that machine learning can be used to simulate 
 <p align="center">
   <img height="200" width="250" src="average_both_profile.jpeg" />
   <br>
-  <em>Where NO2 generally lies in the atmosphere for both urban and rural domains in Atlanta, GA</em>
+  <em>Urban and rural NO2 vertical profiles</em>
 </p>
 
 ## Repo Breakdown
