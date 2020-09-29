@@ -30,6 +30,6 @@ All of our data in the /data/raw_data/ subdirectory come from WRF-CHEM output ov
 
 ## Acknowledgement
 
-I would like to thank Dr. Cohen for the incredibly opportunity to take this project and make it my own. I appreciate the consistent feedback and support Dr. Cohen has provided over the last 8 months. 
+I would like to thank Dr. Cohen for the incredibly opportunity to take this project and make it my own. I appreciate the consistent feedback and support Dr. Cohen has provided over the last 8 months, including a paid internship over summer 2020.
 
 I would also like to thank two of Dr. Cohen's graduate students: Hannah Kennagy and Qindan Zhu. These ladies were instrumental in moving this project forward by consistently providing support and loads of mentorship. I would not have enjoyed my experience as much as I did if I didn't have Hannah and Qindan by my side.
