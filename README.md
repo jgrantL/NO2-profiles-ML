@@ -2,7 +2,7 @@
 
 Welcome to my 8-month research project at a UC Berkeley [atmospheric chemistry lab](https://cohen.cchem.berkeley.edu/) under the guidance of Dr. Ron Cohen! 
 
-I will have a blog post detailing my project up and running on my [personal website]() soon.
+I will have a blog post detailing my project up and running on my [personal website](https://jgrantl.github.io/) soon.
 
 ## Introduction
 
@@ -18,7 +18,7 @@ Our project is a proof of concept that machine learning can be used to simulate 
 
 ## Repo Breakdown
 
-- Code: This directory contains all my code used to extract, clean, and prepare our data for a random forest regression model. The files in this directory are only for our most recent urban and rural model over Atlanta, GA and so there are lots of code omitted from previous iterations of model training and testing. If you're interested, you can reach out to see more. 
+- Code: This directory contains all my code used to extract, clean, and prepare our data in Jupyter notebook for a random forest regression model. Also in this directory you will find python scripts used to train and predict our model on UC Berkeley's High Performance Computing condo cluster. The files in this directory are only for our most recent urban and rural model over Atlanta, GA and so there are lots of code omitted from previous iterations of model training and testing. If you're interested, you can reach out to see more. 
 
 - Presentations: This directory contains material I used to present my research at an invite-only science prep meeting for the TEMPO satellite launch in 2022. The audience was a wide arrange of research scientists from NASA, NOAA, Harvard, and the Smithsoninan.
 
