@@ -6,7 +6,9 @@ Welcome to my 8-month research project at a UC Berkeley atmospheric chemistry la
 
 In order to get an accurate retrieval of NO2 data from a satellite, scientists require a priori knowledge about where NO2 generally exists in the atmosphere. This a prior knowledge comes in the form of a vertical profile (see picture below for both urban and rural NO2 vertical profiles over Atlanta, GA). 
 
-
+<p align="center">
+  <img height="200" width="200" src="average_both_profile.jpeg" />
+</p>
 
 ## Repo Breakdown
 
