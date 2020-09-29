@@ -2,7 +2,7 @@
 
 Welcome to my 8-month research project at a UC Berkeley [atmospheric chemistry lab](https://cohen.cchem.berkeley.edu/) under the guidance of Dr. Ron Cohen! 
 
-I will have a blog post detailing my project up and running on my [personal website](https://jgrantl.github.io/) soon.
+I will have a blog post detailing my project up and running on my [personal website](https://jgrantl.github.io/) soon, and a paper written by the end of 2020.
 
 ## Introduction
 
