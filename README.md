@@ -8,6 +8,8 @@ In order to get an accurate retrieval of NO2 data from a satellite, scientists r
 
 <p align="center">
   <img height="200" width="250" src="average_both_profile.jpeg" />
+  <br>
+  <em>Where NO2 generally lies in the atmosphere for both urban and rural domains in Atlanta, GA</em>
 </p>
 
 ## Repo Breakdown
