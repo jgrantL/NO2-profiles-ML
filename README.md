@@ -2,6 +2,8 @@
 
 Welcome to my 8-month research project at a UC Berkeley [atmospheric chemistry lab](https://cohen.cchem.berkeley.edu/) under the guidance of Dr. Ron Cohen! 
 
+I will have a blog post detailing my project up and running on my [personal website]() soon.
+
 ## Introduction
 
 In order to get an accurate retrieval of NO2 data from a satellite, scientists require a priori knowledge about where NO2 generally exists in the atmosphere. This a prior knowledge comes in the form of a vertical profile (see picture below for both urban and rural NO2 vertical profiles over Atlanta, GA). Traditionally, simulation of vertical profiles is done by a chemstry transport model (CTM), like NOAA's [Weather Research and Forecasting (WRF) model coupled with Chemistry](https://ruc.noaa.gov/wrf/wrf-chem/) (WRF-CHEM). However, simulations using a CTM take a long time and pose a potential problem for future generations of geostationary satellite instruments that make observations more frequently and at higher resolutions. 
