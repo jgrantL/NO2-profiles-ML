@@ -20,7 +20,7 @@ Our project is a proof of concept that machine learning can be used to simulate 
 
 - Code: This directory contains all my code used to extract, clean, and prepare our data in Jupyter notebook for a random forest regression model. Also in this directory you will find python scripts used to train and predict our model on UC Berkeley's High Performance Computing condo cluster. The files in this directory are only for our most recent urban and rural model over Atlanta, GA and so there are lots of code omitted from previous iterations of model training and testing. If you're interested, you can reach out to see more. 
 
-- Presentations: This directory contains material I used to present my research at an invite-only science prep meeting for the TEMPO satellite launch in 2022. The audience was a wide arrange of research scientists from NASA, NOAA, Harvard, and the Smithsoninan.
+- Presentations: This directory contains material I used to present my research, including a script of what I talk about for each slide, at an invite-only science prep meeting for the TEMPO satellite launch in 2022. The audience was a wide arrange of research scientists from NASA, NOAA, Harvard, and the Smithsoninan.
 
 - Data: This directory contains all data used for our urban and rural model. The directory is organized into subdirectories and showcase how I keep my files organized for a large-scale data science project. 
 
